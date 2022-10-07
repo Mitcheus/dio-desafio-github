@@ -2,4 +2,4 @@
 Criação de meu primeiro diretório no github
 
 # Links úteis para esta etapa:
- - Sintaxes básicas usadas com MarkDown (https://www.markdownguide.org/basic-syntax/)
+ [Sintaxes básicas usadas com MarkDown](https://www.markdownguide.org/basic-syntax/)
